@@ -17,5 +17,3 @@ How to push to GitHub:
 
 Reason for creating branches:
 We want to keep the master branch as stable as it can get with out interfering with it. 
-
-What is a branch:
