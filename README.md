@@ -1,9 +1,12 @@
 # phase-0-gps-1
 **Terminal commnand have been using in this challenge**:
 
-```ls``` - Command that shows what files exists under current directory
-```cd``` - command that changes directories
-```touch``` - command that creates new empty files
+ ```ls``` 		-	Command that shows what files exists under current directory
+
+```cd```		-	Command that changes directories
+
+```touch``` 	-	Command that creates new empty files
+
 
 [google](https://google.com/ "This is google")
 
@@ -18,5 +21,4 @@ How to push to GitHub:
 Reason for creating branches:
 We want to keep the master branch as stable as it can get with out interfering with it. 
 
-Hi I am a conflict!
-
+This line is for testing merge conflict: Hi I am a conflict!
